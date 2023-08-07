@@ -1,0 +1,51 @@
+
+.name{
+  margin-top: -210px;
+  margin-left: 250px;
+  color: aliceblue;
+  font-size: 24px;
+  font-weight: bold;
+}
+.bg{
+  background-color: #272B33;
+}
+.flex1{
+  background-color: dark;
+}
+.dead{
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: -12px;
+  margin-left: 250px;
+  color: aliceblue;
+  font-size: 18px;
+  font-weight: 500;
+}
+.location{
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: -20px;
+  margin-left: 250px;
+  color: rgb(158, 158, 158);
+}
+.img{
+  width: 229px;
+  height: 220px;
+  margin-top: -17px;
+  margin-left: -16px;
+  border-radius: 5px;
+}
+.text{
+  margin-top: 50px;
+  text-align: center;
+  color: rgb(32,35,41);
+  font-weight: 900;
+  font-size: 5.625rem;
+}
+.p1{
+  margin-left: -5px;
+}
+.name:hover{
+  color: #f08d49;
+  transition: .3s;
+}
